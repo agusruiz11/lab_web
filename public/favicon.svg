@@ -1,0 +1,32 @@
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cuerpo principal del microscopio -->
+  <path d="M8 2C8 1.44772 8.44772 1 9 1H15C15.5523 1 16 1.44772 16 2V4H8V2Z" fill="#1e40af" stroke="#1e40af" stroke-width="0.5"/>
+  
+  <!-- Base del microscopio -->
+  <rect x="6" y="4" width="12" height="2" fill="#1e40af"/>
+  
+  <!-- Columna vertical -->
+  <rect x="11" y="6" width="2" height="8" fill="#1e40af"/>
+  
+  <!-- Brazo horizontal -->
+  <rect x="11" y="12" width="8" height="2" fill="#1e40af"/>
+  
+  <!-- Tubo del objetivo -->
+  <rect x="18" y="10" width="2" height="4" fill="#1e40af"/>
+  
+  <!-- Ocular -->
+  <circle cx="12" cy="13" r="1" fill="#1e40af"/>
+  
+  <!-- Objetivo -->
+  <circle cx="19" cy="12" r="1.5" fill="#1e40af"/>
+  
+  <!-- Platina -->
+  <rect x="7" y="16" width="10" height="1" fill="#1e40af"/>
+  
+  <!-- Revólver -->
+  <circle cx="19" cy="11" r="2" fill="#1e40af" opacity="0.3"/>
+  
+  <!-- Detalles adicionales -->
+  <circle cx="8" cy="16.5" r="0.5" fill="#1e40af" opacity="0.6"/>
+  <circle cx="16" cy="16.5" r="0.5" fill="#1e40af" opacity="0.6"/>
+</svg>
